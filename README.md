@@ -3,8 +3,6 @@ frames
 
 Abstract component-based 2D rendering engine.
 
-[[_TOC_]]
-
 ## How it works
 
 ### Update and Render Cycle
