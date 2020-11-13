@@ -3,6 +3,8 @@ frames
 
 Abstract component-based 2D rendering engine.
 
+See [lobby-arcade](https://github.com/RewisServer/lobby-arcade) for an example implementation.
+
 ## How it works
 
 ### Update and Render Cycle
